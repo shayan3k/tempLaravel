@@ -1,0 +1,976 @@
+/*=======================
+		INDEX PAGE
+========================*/
+
+html > body.page-header-fixed > div.header.navbar.navbar-inverse.navbar-fixed-top > div.navbar-inner > div.container-fluid > ul.nav.pull-left > li#header_notification_bar.dropdown.open > ul.dropdown-menu.extended.notification > li > p{
+    font-size: 13px;
+    font-weight: 100;
+}
+html > body.page-header-fixed > div.header.navbar.navbar-inverse.navbar-fixed-top > div.navbar-inner > div.container-fluid > ul.nav.pull-left > li#header_notification_bar.dropdown.open > ul.dropdown-menu.extended.notification > li > div.slimScrollDiv > ul.dropdown-menu-list.scroller > li > a > span.time{
+    font-size: 11px;
+    font-weight: 600
+}
+html > body.page-header-fixed > div.header.navbar.navbar-inverse.navbar-fixed-top > div.navbar-inner > div.container-fluid > ul.nav.pull-left > li#header_inbox_bar.dropdown.open > ul.dropdown-menu.extended.inbox > li > div.slimScrollDiv > ul.dropdown-menu-list.scroller > li > a > span.subject > span.from{
+    font-weight: 100;
+    font-size: 13px;
+}
+html > body.page-header-fixed > div.header.navbar.navbar-inverse.navbar-fixed-top > div.navbar-inner > div.container-fluid > ul.nav.pull-left > li#header_inbox_bar.dropdown.open > ul.dropdown-menu.extended.inbox > li > div.slimScrollDiv > ul.dropdown-menu-list.scroller > li > a > span.subject > span.time{
+    font-size: 11px;
+    font-weight: 100
+
+}
+html > body.page-header-fixed > div.header.navbar.navbar-inverse.navbar-fixed-top > div.navbar-inner > div.container-fluid > ul.nav.pull-left > li#header_task_bar.dropdown.open > ul.dropdown-menu.extended.tasks > li > div.slimScrollDiv > ul.dropdown-menu-list.scroller > li > a > span.task > span.percent{
+    font-weight: 100;
+    font-size: 13px;
+}
+html > body.page-header-fixed > div.header.navbar.navbar-inverse.navbar-fixed-top > div.navbar-inner > div.container-fluid > ul.nav.pull-left > li.dropdown.user.open > ul.dropdown-menu > li > a > span.badge.badge-important{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 10px;
+}
+html > body.page-header-fixed > div.header.navbar.navbar-inverse.navbar-fixed-top > div.navbar-inner > div.container-fluid > ul.nav.pull-left > li.dropdown.user.open > ul.dropdown-menu > li > a > span.badge.badge-success{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    font-weight: 600
+}
+html > body.page-header-fixed > div.page-container > div.page-sidebar.nav-collapse.collapse > ul.page-sidebar-menu > li.open > a > span.title{
+    font-weight: 100
+}
+html > body.page-header-fixed > div.page-container > div.page-sidebar.nav-collapse.collapse > ul.page-sidebar-menu > li.open > ul.sub-menu > li > a{
+    font-size: 13px;
+    font-weight: 100
+}
+span.badge{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    font-weight: 600
+}
+span.badge-roundless{
+    font-family: iransans,'Open Sans', sans-serif;
+}
+html > body.page-header-fixed > div.page-container > div.page-content > div.container-fluid > div.row-fluid > div.span12 > h3.page-title > small{
+    position: relative;
+    top:10px
+}
+.ver-inline-menu li i {
+    width: 20px;
+}
+#sample_2.table.table-striped.table-bordered.table-hover.table-full-width.dataTable > thead > tr > th{
+    font-size: 13px;
+    font-weight: normal;
+    background-color: #0081c2;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+}
+#sample_2.table.table-striped.table-bordered.table-hover.table-full-width.dataTable > tbody > tr > td{
+    font-size: 13px;
+    font-weight: normal;
+    text-align: center;
+    vertical-align: middle;
+}
+html > body.page-header-fixed.page-sidebar-closed > div.page-container.row-fluid > div.page-content > div.container-fluid > div.row-fluid > div.span12 > div.portlet.box.green > div.portlet-title > div.actions > div.btn-group.open > div#sample_2_column_toggler.dropdown-menu.hold-on-click.dropdown-checkboxes.pull-left > label{
+    font-family: iransans;
+    font-size: 13px;
+    font-weight: normal;
+}
+
+#sample_2_filter.dataTables_filter > label{
+    font-family: iransans;
+    font-size: 13px;
+    font-weight: normal;
+}
+html > body.page-header-fixed.page-sidebar-closed > div.page-container.row-fluid > div.page-content > div.container-fluid > div.row-fluid > div.span12 > div.portlet.box.green > div.portlet-body > div#sample_2_wrapper.dataTables_wrapper.form-inline > div.row-fluid > div.span6 > div#sample_2_length.dataTables_length > label{
+    text-align: center;
+    font-size: 13px;
+    font-weight: normal;
+}
+html > body.page-header-fixed > div.page-container.row-fluid > div.page-content > div.container-fluid > div.row-fluid > div.span12 > div.portlet.box.blue > div.portlet-body.form > form.form-horizontal > div.control-group > div.controls > select.m-wrap.medium{
+    font-family: iransans;
+    font-size: 13px;
+    font-weight: normal;
+}
+div.controls.controls-row > label.control-label.align-left{
+    position: relative;
+    top:4px;
+}
+table#estate-table.table > tbody > tr > td{
+    border: 0
+}
+table#estate-table.table.next-line > tbody > tr > td.tb-align-left{
+    text-align: left;
+    line-height: 32px;
+    font-size: 13px;
+    font-weight: normal;
+}
+table#estate-table.table.next-line > tbody > tr > td.tb-align-right{
+    text-align: right;
+    line-height: 32px
+}
+table#estate-table.table.next-line > tbody > tr > td > div.controls > textarea.text-area-full{
+    width: 82%;
+    min-height: 100px;
+    resize:none;
+}
+table#estate-table.table.next-line > tbody > tr > td  label.checkbox.line{
+    font-size: 13px;
+    font-weight: normal;
+}
+table#estate-table.table.next-line div.controls > input{
+    height:25px;
+}
+table#estate-table.table.next-line  div.controls > span.help-inline{
+    font-size: 13px;
+    color: grey;
+    margin-right: 0
+}
+
+#add_etate_submit{
+    margin: auto;
+    text-align: center
+}
+#sample_2_filter.dataTables_filter > label > input.m-wrap.small{
+    font-family: iransans;
+    font-size: 13px;
+    font-weight: normal;
+}
+html > body.page-header-fixed > div.page-container > div.page-content > div.container-fluid > div.row-fluid > div.span12 > div.portlet.box.blue > div.portlet-body.form > form.form-horizontal > div.control-group > div.controls > div.input-icon.left > input{
+    font-family: iransans;
+    font-size: 13px;
+    font-weight: normal;
+}
+.help-block{
+    font-size: 12px;
+}
+html > body.page-header-fixed > div.page-container > div.page-content > div.container-fluid > div.row-fluid > div.span12 > div.portlet.box.blue > div.portlet-body.form > form.form-horizontal > div.control-group > div.controls > select{
+    font-family: iransans;
+    font-size: 13px;
+    font-weight: normal;
+}
+html > body.page-header-fixed > div.page-container > div.page-content > div.container-fluid > div.row-fluid > div.span12 > div.portlet.box.blue > div.portlet-body.form > form#userEdit.form-horizontal > div#userNameGroup.control-group > div.controls > div.input-icon.left > span#userName_alert.help-inline.form-alert.font-red{
+    font-family: iransans;
+    font-size: 13px;
+    font-weight: normal;
+}
+.submit-error{
+    display: inline-block;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    color: red;
+    display: none;
+}
+html > body.page-header-fixed > div.page-container > div.page-content > div.container-fluid > form#form_add_estate > div.row-fluid > div.controls.controls-row.next-line > div.controls > select{
+    font-family: iransans;
+    font-size: 13px;
+    font-weight: normal;
+}
+html > body.page-header-fixed > div.page-container > div.page-content > div.container-fluid > form#form_add_estate > div.row-fluid > table#estate-table.table.next-line > tbody > tr > td > div.controls > select.m-wrap{
+    font-family: iransans;
+    font-size: 13px;
+    font-weight: normal;
+}
+html > body.page-header-fixed > div.page-container > div.page-content > div.container-fluid > form#form_add_estate > div.row-fluid > table#estate-table.table.next-line > tbody > tr > td > div.controls > textarea.text-area-full{
+    font-family: iransans;
+    font-size: 13px;
+    font-weight: normal;
+}
+html > body.page-header-fixed > div.page-container > div.page-content > div.container-fluid > form#form_add_estate > div.row-fluid > table#estate-table.table.next-line > tbody > tr > td > div.controls > input#frm_landlord.m-wrap.medium{
+    font-family: iransans;
+    font-size: 13px;
+    font-weight: normal;
+}
+.required{
+    color:red;
+}
+html > body.page-header-fixed.page-sidebar-closed > div.page-container > div.page-content > div.container-fluid > div.row-fluid > div.span12 > div.portlet.box.green > div.portlet-title > div.actions > div.btn-group.open > div#sample_2_column_toggler.dropdown-menu.hold-on-click.dropdown-checkboxes.pull-left > label{
+    font-family: iransans;
+    font-size: 13px;
+    font-weight: normal;
+}
+
+html > body.page-header-fixed.page-sidebar-closed > div.page-container > div.page-content > div.container-fluid > div.row-fluid > div.span12 > div.portlet.box.red > div.portlet-title > div.actions > div.btn-group.open > div#sample_2_column_toggler.dropdown-menu.hold-on-click.dropdown-checkboxes.pull-left > label{
+    font-family: iransans;
+    font-size: 13px;
+    font-weight: normal;
+}
+input#frm_stateName,input#frm_cityName,input#frm_zoneName,select#frm_states1,select#frm_states2,select#frm_cities2{
+    font-family: iransans;
+    font-size: 13px;
+    font-weight: normal;
+}
+p#stateName_error,p#cityName_error,p#zoneName_error{
+    display:none;
+}
+html > body.page-header-fixed.page-sidebar-closed > div.page-container > div.page-sidebar.nav-collapse.collapse > ul.page-sidebar-menu > li > ul.sub-menu > li > a{
+    font-family: iransans;
+    font-size: 13px;
+    font-weight: normal;
+}
+form#form_add_estate select{
+    font-family: iransans;
+    font-size: 13px;
+    font-weight: normal;
+}
+form#form_add_estate input{
+    font-family: iransans;
+    font-size: 13px;
+    font-weight: normal;
+}
+form#form_add_estate input.ltr{
+    font-family: 'Open Sans', sans-serif;
+}
+form#form_add_estate textarea{
+    font-family: iransans;
+    font-size: 13px;
+    font-weight: normal;
+}
+span.fileupload-preview{
+    font-family: 'Open Sans', sans-serif;
+}
+#image_upload{
+    margin-right: 10px;
+}
+.image_notes{
+    margin:10px;
+}
+.image_notes span.label{
+    margin-left:10px;
+}
+#upload_error{
+    display: none;
+}
+table#estate-table.table.next-line > tbody > tr > td > div.controls > input{
+    height: 30px;
+}
+.submit_group{
+    margin-top:30px;
+    text-align: center;
+}
+html > body.page-header-fixed > div.page-container > div.page-content > div.container-fluid > div.portlet.box.green > div.portlet-body.form > form#form_add_post.form-horizontal > div#userNameGroup.control-group.next-line > div.controls > div.input-icon.left > input#frm_title.m-wrap.required.ltr{
+    font-family: iransans;
+    font-size: 13px;
+    font-weight: normal;
+    direction: rtl;
+}
+textarea#full_text {
+    font-family: iransans;
+    font-size: 13px;
+    font-weight: normal;
+    direction: rtl;
+}
+div#special_err.font-red{
+    font-size: 13px;
+    font-weight: normal;
+}
+ul.page-sidebar-menu > li > a > span.title{
+    font-size: 13px;
+}
+form#form_texts_1.form-horizontal > button#form1_submit{
+    margin-right: 50%
+}
+form#form_texts_1.form-horizontal input{
+    font-family: iransans;
+    font-size: 13px;
+}
+.slider-show{
+    width:100%;
+    min-height: 100px;
+}
+div.slider-show > span{
+    margin:auto;
+    text-align: center;
+    margin-right: 45%;
+    font-size:18px;
+    color: grey;
+}
+
+.slider-show .slider-show-element{
+    max-width:800px;
+    max-height: 285px;
+    padding: 3px;
+    background-color: white;
+    box-shadow: 0px 0px 2px #999999;
+    margin: auto;
+    margin-top: 10px;
+}
+form#form_texts_2.form-horizontal input.m-wrap{
+    font-family: iransans;
+    font-size: 13px;
+}
+form#form_texts_2.form-horizontal button#form2_submit{
+    margin-right: 50%
+}
+html > body.page-header-fixed.page-sidebar-closed > div.page-container > div.page-content > div.container-fluid > div.row-fluid > div.span12 > div.portlet.box.purple > div.portlet-body > div#sample_2_wrapper.dataTables_wrapper.form-inline > table#sample_2.table.table-striped.table-bordered.table-hover.table-full-width.dataTable > tbody > tr > td.sorting_1 > input.m-wrap{
+    font-family: iransans;
+    font-size: 13px;
+    font-weight: normal;
+}
+input#frm_from_time,input#frm_to_time{
+    font-family: "TIMES NEW ROMAN"
+}
+html > body.page-header-fixed > div.page-container > div.page-content > div.container-fluid > div.row-fluid > div.span12 > div.portlet.box.blue > div.portlet-body.form > form#form_specialEdit.form-horizontal > div.control-group > div.controls > div.input-icon.left > a.pcalBtn{
+    position: relative;
+    right: 20px;
+    bottom: 3px;
+}
+#status_edit{
+    position: relative;
+    top: 7px;
+}
+table#sample_2 tbody tr td input{
+    font-family: iransans;
+    font-size: 13px;
+    font-weight: normal;
+}
+form#multi_del-up .actions > div.btn-group.open > ul.dropdown-menu.pull-left > li > a{
+    font-family: iransans;
+    font-size: 13px;
+    font-weight: normal;
+}
+span.price-desc{
+    font-family: iransans;
+    font-size: 30px;
+    font-weight: normal;
+    position: relative;
+    bottom: 5px;
+}
+.dashboard-stat.purple .details .desc span.foreign{
+    font-family: "TIMES NEW ROMAN";
+    position:relative;
+    top:2px;
+}
+
+/* My Advanced Table */
+#My_Advanced_table_filter.dataTables_filter label{
+    font-size: 13px;
+    font-weight: normal;
+}
+#My_Advanced_table_filter.dataTables_filter input{
+    font-family: iransans;
+    font-size: 13px;
+    font-weight: normal;
+}
+table#My_Advanced_table thead tr th{
+    font-size: 13px;
+    font-weight: normal;
+    background-color: #0081c2;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+}
+table#My_Advanced_table tbody tr td{
+    font-size: 13px;
+    font-weight: normal;
+    text-align: center;
+    vertical-align: middle;
+}
+table#My_Advanced_table tbody tr.not-visited td{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 14px;
+}
+/* 	FILTER BOX FOR ADVANCED TABLE */
+#advanced_table_filter_box{
+    position: absolute;
+    right:40%;
+}
+#advanced_table_filter_box label{
+    display: inline-block;
+    position: relative;
+    bottom: 3px;
+}
+#advanced_table_filter_select{
+    width:150px;
+    margin-right: 20px;
+    font-family: iransans;
+    font-size: 13px;
+    font-weight: normal;
+    text-align: center;
+}
+ul.page-sidebar-menu > li.active > ul.sub-menu > li > a{
+    font-size: 13px;
+    font-weight: normal;
+}
+html > body.page-header-fixed > div.page-container > div.page-content > div.container-fluid > div.tabbable.tabbable-custom > div.tab-content > div#tab_1_1.tab-pane.active > form#form_add_estate > div.row-fluid > table#estate-table.table.next-line > tbody > tr > td > div.controls > a.pcalBtn{
+    position: relative;
+    bottom: 13px;
+    right: 15px;
+}
+html > body.page-header-fixed > div.page-container > div.page-content > div.container-fluid > div.tabbable.tabbable-custom > div.tab-content > div#tab_1_1.tab-pane.active > form#form_add_estate > div.row-fluid > table#estate-table.table.next-line > tbody > tr > td > div.controls > label.checkbox{
+    font-size: 13px;
+    font-weight: normal;
+    position: relative;
+    right: 50px;
+}
+table#estate-table.table.next-line > tbody > tr > td > div.controls > label.checkbox{
+    font-size: 13px;
+    font-weight: normal;
+}
+table#estate-table.table.next-line > tbody > tr > td > div.controls > input{
+    font-family: 'iransans';
+    font-size: 13px;
+    font-weight: normal;
+}
+.size-13,input.size-13,label.size-13{
+    font-size: 13px !important;
+    font-weight: normal !important;
+}
+#Special-num-radio .controls.size-13 label{
+    font-size: 13px !important;
+    font-weight: normal !important;
+}
+
+.btn-group ul.dropdown-menu li a{
+    font-family: 'iransans';
+    font-size: 13px;
+}
+.dataTables_length > label{
+    font-size: 13px;
+    font-weight: normal;
+    direction: ltr;
+}
+.dataTables_length > label select{
+    margin-right: 7px;
+}
+
+.checkbox-group label{
+    font-size: 13px;
+    font-weight: normal;
+}
+
+table.flip-content tbody td{
+    text-align: center;
+}
+
+form#filter-form select,form#filter-form input{
+    font-size: 13px;
+    font-family: 'iransans';
+    font-weight: normal;
+}
+
+#multi_del-up .span2 .control-group .controls select{
+    font-family: 'iransans';
+    font-size: 13px;
+    font-weight: normal;
+}
+
+.top2{
+    position: relative;
+    top: 2px;
+}
+.top2{
+    position: relative;
+    top: 2px;
+}
+select {
+    font-family: 'iransans' !important;
+    font-size: 13px !important;
+}
+input[type='text'],textarea{
+    font-family: 'iransans' !important;
+    font-size: 13px !important;
+}
+.foreign,input.foreign{
+    font-family: 'arial' !important;
+}
+
+.tabbable-custom .nav-tabs li a{
+    font-size : 13px !important;
+    font-weight: normal !important;
+    color : #3A7C9D !important;
+}
+.tabbable-custom .nav-tabs li.active a{
+    color: #000000 !important;
+}
+.sale-summary li .sale-info{
+    font-size: 13px !important;
+}
+.profile label{
+    font-size: 13px !important;
+    font-weight: normal !important;
+}
+.profile .table-bordered th{
+    font-size: 13px !important;
+    font-weight: normal !important;
+}
+
+.controls > .radio, .controls > .checkbox{
+    font-size: 13px !important;
+    font-weight: normal !important;
+}
+select {
+    padding: 0 5px;
+}
+label.radio-inline.rtl{
+    position: relative;
+    top: -10px;
+}
+.label-deleted{
+    background-color: orange;
+}
+.radio-inline.simple{
+    margin-left: 20px;
+}
+#account-information-part{
+    border: 1px grey dotted;
+    width: 65%;
+    min-width: 150px;
+    padding: 10px
+}
+.twice-input-in-row{
+    padding: 0
+}
+.twice-input-in-row .text-input{
+    padding-left: 0
+}
+.twice-input-in-row .text-input .pretty-border{
+    left: 0;
+}
+.twice-input-in-row .select-input{
+    padding-left: 15px;
+}
+
+#calculate_end_time{
+    font-family: iransans !important;
+}
+
+.btn-user-profile{
+    font-size: 11px !important;
+}
+#reopen-data-wrapper .pcalBtn{
+    margin-right: 10px;
+    margin-left: 0;
+}
+
+
+
+.select2-container .select2-search--inline{
+    float: right !important;
+}
+
+.select2-result-repository__avatar {
+    float: right;
+    width: 60px;
+    margin-left: 10px; }
+
+.select2-result-repository__avatar img {
+    width: 100%;
+    height: auto;
+    border-radius: 2px;
+}
+
+.select2-result-repository__meta {
+    margin-right: 70px;
+}
+
+.select2-result-repository__title {
+    color: black;
+    font-weight: bold;
+    word-wrap: break-word;
+    line-height: 1.1;
+    margin-bottom: 4px;
+}
+
+.select2-result-repository__forks, .select2-result-repository__stargazers {
+    margin-left: 1em;
+}
+.select2-result-repository__stargazers{
+    margin-left: 4em;
+}
+.select2-result-repository__forks, .select2-result-repository__stargazers, .select2-result-repository__watchers {
+    display: inline-block;
+    color: #aaa;
+    font-size: 11px; }
+
+.select2-result-repository__description {
+    font-size: 13px;
+    color: #777;
+    margin-top: 4px; }
+
+.select2-results__option--highlighted .select2-result-repository__title { color: white; font-weight: normal}
+.select2-results__option--highlighted .select2-result-repository__forks, .select2-results__option--highlighted .select2-result-repository__stargazers, .select2-results__option--highlighted .select2-result-repository__description, .select2-results__option--highlighted .select2-result-repository__watchers { color: #c1d7e9; }
+.checker { margin-top: -2px !important; margin-left: 2px !important; }
+.select2-container--bootstrap[dir="rtl"] .select2-selection--multiple .select2-selection__choice {font-family: iransans;}
+.select2-result-repository__forks{
+    margin-left: 50px;
+}
+.select2-container--bootstrap .select2-search--dropdown .select2-search__field{
+    height: 30px;
+}
+.select2-container--bootstrap[dir="rtl"] .select2-selection--single .select2-selection__rendered{
+    font-family: iransans;
+}
+
+
+
+
+
+/*------------------------------------------------------------------
+[ Invoice Template ]
+*/
+.invoice-wrapper {
+    background-color: #fff;
+    border: 2px solid rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    direction: rtl;
+    margin-top: 40px;
+}
+
+.invoice-header {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    padding-bottom: 10px; }
+
+.invoice-logo {
+    float: right;
+    font-size: 26px;
+    text-transform: uppercase; }
+.invoice-logo i {
+    color: #42A5F5;
+    margin: 0px 0px 0px 10px; }
+.invoice-logo small{
+    font-size: 12px;
+    padding-right: 42px;
+}
+
+.invoice-description {
+    float: left; }
+.invoice-description span, .invoice-description strong {
+    display: block; }
+.invoice-description strong {
+    font-size: 20px; }
+
+.invoice-info {
+    padding: 20px 0px;
+}
+.invoice-summary dl.dl-horizontal .final-price{
+    margin-top: 10px;
+    font-sizE: 16px
+}
+.rs_graybg {
+    background:#f5f5f5;
+    -webkit-transition: margin-right 300ms ease;
+    -moz-transition: margin-right 300ms ease;
+    -ms-transition: margin-right 300ms ease;
+    -o-transition: margin-right 300ms ease;
+    transition: margin-right 300ms ease;
+    padding-bottom: 50px;
+}
+
+.invoice-summary .dl-horizontal dd, .invoice-summary .dl-horizontal dt{
+    margin-bottom: 10px;
+}
+.invoice-summary .dl-horizontal dd.final-price{
+    margin-top: 20px;
+}
+.invoice-status .label{
+    font-size: 15px;
+    padding: 5px 10px;
+}
+
+/*------------------------------------------------------------------
+[ Upload Images ]
+*/
+#upload_images_part{
+    text-align: center;
+}
+.drop-images {
+    vertical-align: middle;
+    float: right;
+    border: 1px dotted #858585;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+    position: relative;
+    text-align: center;
+    width: 120px;
+    height: 80px;
+    background: #fff
+}
+.drop-images span {
+    margin-top: 20px;
+    position: relative;
+    display: block;
+    font-size: 16px
+}
+.hover-wrapper {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+    margin: 0;
+    padding: 0
+}
+.hover-wrapper .figcaption {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 97%;
+    height: 95%;
+    background-color: #5C5C5C;
+    color: #fff;
+    opacity: 0;
+    cursor: pointer
+}
+.hover-wrapper .figcaption i {
+    font-size: 40px;
+    position: relative;
+    right: 0;
+    top: 25%;
+    color: #FF4B44
+}
+.hover-wrapper .drop-images i{
+    font-size: 25px;
+}
+.hover-wrapper .drop-images .hover-icon{
+    margin-top: 15px;
+}
+.hover-wrapper .drop-images{
+    border: 2px dashed #858585;
+}
+.hover-wrapper .drop-images:hover, .hover-wrapper .drop-images.hover
+{
+    border-color: #0078C1;
+    color: #0078C1;
+    cursor: pointer;
+}
+.hover-wrapper .drop-images.uploading{
+    border-color: #0078C1;
+    color: #0078C1;
+}
+.hover-wrapper .drop-images.uploading i{
+    position: relative;
+    bottom: 5px;
+}
+.hover-wrapper .drop-images.upload-error{
+    border-color: #e4282f;
+    color: #e4282f;
+}
+.hover-wrapper .drop-images.upload-success{
+    border-color: #5CB12F;
+    color: #5CB12F;
+}
+#create-more-uploaders{
+    text-decoration: none;
+    color: white;
+}
+#create-more-uploaders:hover{
+    text-decoration: none;
+    opacity: 0.5
+}
+.popup-upload .drop-images {
+    width: 400px;
+    height: 250px;
+    margin: 0;
+}
+
+.popup-upload  .hover-wrapper .figcaption i{
+    top: 40%;
+}
+.popup-upload .hover-wrapper .figcaption{
+    width: 100%;
+    height: 100%;
+}
+.popup-upload .hover-wrapper .drop-images .hover-icon{
+    margin-top: 100px;
+}
+/*------------------------------------------------------------------
+[ maetrial buttons ]
+*/
+.material-btn{
+    display: inline-block;
+    background: none;
+    text-shadow: none;
+    box-shadow: none;
+    position: relative;
+    border: none;
+    outline:none;
+    cursor: pointer;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+    user-select: none;
+    transition: .5s all ease;
+    margin-bottom: 0;
+    padding: 8px 13px;
+    border-radius: 2px;
+    direction: rtl;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    background-color: #2196F3;
+    /*border-color: #0d8aee;*/
+    color: white;
+    border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+}
+.material-btn:hover{
+    color: white;
+    -webkit-box-shadow: 0px 3px 7px #333;
+}
+.material-btn.btn-x-small {
+    padding: 3px 10px;
+    font-size: 11px;
+}
+.material-btn.btn-small{
+    padding: 7px 10px;
+    font-size: 13px;
+}
+.material-btn.btn-medium{
+    font-size: 18px;
+    line-height: 30px;
+    padding: 10px 20px;
+}
+.material-btn.btn-big{
+    font-size: 25px;
+    line-height: 30px;
+    padding: 15px 25px;
+}
+.material-btn.purple{
+    background-color: #4e6cef;
+}
+.material-btn.green{
+    background-color: #259b24
+}
+
+.portlet.light{
+    border: 1px solid #cbcbcb;
+    border-top-width: 5px;
+    border-radius: 10px !important;
+    float: left;
+    width: 100%;
+}
+.portlet.light .portlet-title{
+    border: none;
+}
+.portlet.light .portlet-body{
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+.portlet.light .portlet-title{
+    color: black !important;
+    background-color: #e4e4e4;
+    border-top-left-radius: 5px !important;
+    border-top-right-radius: 5px !important;
+    font-size: 18px;
+    padding-bottom: 8px;
+}
+
+
+
+
+/*------------------------------------------------------------------
+[ Form validation ]
+*/
+.form-group.has-error .form-control.error{
+    margin: 0;
+    padding: auto;
+    background: none;
+    border-color: rgb(185, 74, 72);
+}
+.help-block.form-error{
+    color: rgb(185, 74, 72);
+}
+.form-group.has-error .select2-selection,.form-group.has-error .chzn-single{
+    border-color: rgb(185, 74, 72);
+}
+.form-group.has-error{
+    border-color: red;
+}
+.form-group--float .input-icon-addon{
+    display: none;
+}
+
+.custom-field__radio .radio-group{
+    border: 1px solid gray;
+    padding: 2px 10px;
+    border-radius: 15px !important;
+    border-right: 0;
+    border-left: 0;
+    margin-bottom: 5px;
+}
+.radio-group label.radio-inline.rtl {
+    position: relative;
+    top: 0;
+}
+#location_picker{
+    /*width:100%;*/
+    height:225px;
+    border: 7px solid #fff;
+    background-color:#fff;
+    box-shadow:0 0 2px #999
+}
+.location-picker-help{
+}
+.location-picker-help img{
+    width: 15px;
+}
+.uneditable{
+    margin-right: 20px;
+    margin-top: 0;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 5px !important;
+}
+.textarea-block{
+    width: 100%;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+.header .brand {
+    padding-top: 3px;
+}
+.header .brand img {
+    height: 40px
+}
+
+.p-r-0 {
+    padding-right: 0 !important;
+}
+.m-r-0 {
+    margin-right: 0 !important;
+}
+
+/**---------------------
+			Nestable Styles
+----------------------**/
+#nestable .dd-handle {
+    height: auto;
+}
+#nestable.dd ol.dd-list li.dd-item a{
+    position: absolute;
+    left: -50px;
+    bottom: 8px;
+    font-size: 20px;
+}
+#nestable.dd ol.dd-list li.dd-item i{
+    padding: 5px;
+    border-radius: 100%;
+    -moz-border-radius:100%;
+    -webkit-border-radius:100%;
+}
+#nestable ol li div:hover, #nestable .dd-item:hover{
+    cursor: move !important;
+}
+
+
+.image-captcha {
+    text-align: center;
+}
+.captcha-field {
+    text-align: center;
+    font-size: 20px !important;
+    font-family: Tahoma;
+}
+.captcha-update-handler{
+    display: inline-block;
+    font-size: 20px;
+    border: 1px solid gray;
+    padding: 5px 6px;
+    border-radius: 50% !important;
+    line-height: 0;
+    cursor: pointer;
+    position: relative;
+    right: 10px;
+    color: gray;
+}
+.captcha-update-handler:hover{
+    opacity: 0.5;
+}
